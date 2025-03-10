@@ -1,7 +1,8 @@
 # Supply Chain Analysis
 
-<h2> Live Dashboard: </h2> 
-[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZTc0MzljYjgtOTc4Yy00MzQ1LTljMWYtODAxNjE5MTEyZmEyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+<b> Live Dashboard: [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZTc0MzljYjgtOTc4Yy00MzQ1LTljMWYtODAxNjE5MTEyZmEyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) </b>
+
 
 To analyze Atliq Mart’s service level performance (OTIF, LIFR, VOFR) across cities and customers to identify factors contributing to customer contract non-renewals. This analysis will provide data-driven insights through trend tracking, target comparisons, and drill-down capabilities to drive service improvements.
 
